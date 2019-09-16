@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5A29E492-496E-A510-9FDE-008F5D05A30B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/KeepStalfos.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AttackMovement.cs" Line="41" Column="19" />
+      <File FileName="Assets/Scripts/RoomTransition.cs" Line="97" Column="58" />
+      <File FileName="Assets/Scripts/ScreenShakeEffect.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/HealthController.cs" Line="120" Column="5" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="30" Column="6" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" Line="33" Column="6" />
+      <File FileName="Assets/Scripts/BoundaryCollector.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/KeepStalfos.cs" Line="19" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
